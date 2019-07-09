@@ -1,0 +1,1 @@
+INSERT INTO ACCOUNT(name,password,email,role) VALUES('admin','P@ssw0rd','admin@admin.com','ADMIN');
